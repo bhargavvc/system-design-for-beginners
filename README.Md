@@ -26,6 +26,9 @@ This section provides an overview of key computer hardware components, including
 
 ## Computer Architecture Components
 
+ ![Computer Architecture](https://raw.githubusercontent.com/bhargavvc/system-design-for-beginners/main/images/computer_architecture.png)
+
+
 ### 1. Storage (Disk)
 **Definition:**
 - Disk storage is the primary, non-volatile storage used for permanently storing data and programs, even when the computer is turned off.
